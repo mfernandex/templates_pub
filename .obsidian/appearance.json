@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 18,
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "heading-size"
+  ]
+}
